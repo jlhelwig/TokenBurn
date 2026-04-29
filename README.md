@@ -3,24 +3,11 @@
 Real-time API spend dashboard for Claude, Gemini, and Ollama.  
 Three circular speedometer gauges in one floating window. Shows and hides automatically with VS Code.
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│      ◉ Claude              ◉ Gemini              ◉ Ollama               │
-│      $/min                 $/min                 tok/min                 │
-│                                                                          │
-│   ● Haiku 4.5   $0.0031  ● 2.5 Flash $0.0041  ● llama3     42,100t    │
-│   ● Sonnet 4    $0.0012  ● 2.5 Pro   $0.0009  ● mistral     8,300t    │
-│   ● Haiku 4     $0.0008  ● 2.0 Flash $0.0002  ● phi3          900t    │
-│   ● Opus 4      $0.0001  ●                    ●                        │
-│   ●                      ●                    ●                        │
-│   ●                      ●                    ●                        │
-│                                                                          │
-│      $0.0063                $0.0052               87,400 tok            │
-└──────────────────────────────────────────────────────────────────────────┘
-```
 
----
+
+<img width="688" height="416" alt="image" src="https://github.com/user-attachments/assets/73a4a571-7a30-48a1-82fa-845c85574450" />
+
+
 
 ## How it works
 
