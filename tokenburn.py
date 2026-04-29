@@ -144,6 +144,7 @@ def _needle_tip(cx: int, cy: int, frac: float, length: float):
 
 _DEV_ROOTS = [
     Path.home() / "Dev",
+    Path.home() / "Projects",
     Path("/Volumes/MyDrive/Dev"),
 ]
 _EXTRA_DB = os.environ.get("JOPLIN_GOVERNANCE_METRICS_DB")
